@@ -85,8 +85,8 @@ The machine learning model is stored inside:
 ---
 
 ## DEMO VIDEO LINK
-[Explanation about problem statement](https://youtu.be/Af06PeFbDsg?feature=shared)
-[Demo Video](https://youtu.be/X8gGkSgit94?feature=shared)
+- [Explanation about problem statement](https://youtu.be/Af06PeFbDsg?feature=shared)
+- [Demo Video](https://youtu.be/X8gGkSgit94?feature=shared)
 ---
 
 ## 🏆 Contributors  
