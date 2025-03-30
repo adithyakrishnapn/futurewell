@@ -1,5 +1,14 @@
 # 🌐 Internet Addiction Assessment Tool  
 
+## 📝 Problem Statement  
+Excessive internet use in children can negatively impact their well-being, making early detection crucial.  
+
+## 🎯 Project Description  
+With the growing use of digital devices, some children develop unhealthy internet habits. This project aims to identify early signs of problematic internet use in children by analyzing their behavior and activity data. By detecting risks early, parents and experts can provide timely support and promote healthier digital habits.  
+
+---
+
+## 📌 About the Project  
 This project is a web-based application that helps users assess their **internet addiction levels** using a **machine learning model**. It provides **personalized suggestions** based on user responses using **Gemini 2.0 Flash**.  
 
 ## 🚀 Features  
@@ -13,7 +22,9 @@ This project is a web-based application that helps users assess their **internet
 ---
 
 ## 🛠️ Installation  
-
+```sh
+git clone https://github.com/adithyakrishnapn/futurewell
+```
 ### 🔹 Backend (Flask)  
 > **Recommended Python Version:** `3.11.0`  
 ```sh
@@ -81,5 +92,9 @@ The machine learning model is stored inside:
 
 ---
 
+## 📜 License  
+This project is licensed under the **MIT License**.  
+
+---
 
 
